@@ -9,7 +9,5 @@
  * @author ngarciacarrillo
  */
 public class Nuria {
-    
-    
-    
+   
 }
